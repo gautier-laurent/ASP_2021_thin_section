@@ -1,0 +1,16 @@
+name: geostat-course
+channels:
+  - defaults
+dependencies:
+  - jupyter_contrib_nbextensions
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - ipywidgets
+  - skimage
+  - cv2
+  - time
+  - PIL
+  - math
+  - seaborn
